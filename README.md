@@ -1,2 +1,3 @@
-# javascript_clean_code
-How to write clean code
+```
+https://github.com/ryanmcdermott/clean-code-javascript
+```
